@@ -1,0 +1,50 @@
+h3,h2{
+    color:blue;
+    background-color:aquamarine;
+}
+.bhavin{
+    color: green;
+    background-color: yellow;
+}
+#bhavin{
+    color:yellowgreen;
+    background-color:royalblue;
+    
+}
+a:hover{
+    background-color: green;
+    
+}
+a:visited{
+    background-color: yellow;
+}
+li[class="bhavin"]{
+    background-color: green;
+}
+.special{
+    background-image: url("WhatsApp\ Image\ 2023-06-02\ at\ 3.32.31\ PM.jpeg");
+    background-attachment: fixed;
+    background-position-y: top;
+    background-repeat: no-repeat;
+    
+}
+.s{
+    font-size: larger;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+    font-weight: bold;
+    word-spacing: 3px;
+}
+#text{
+    word-spacing: 3px;
+    text-indent: 100px;
+    text-decoration: underline;
+    text-shadow: 1px 1px 2px;
+    line-height: 12;
+}
+.te{
+    text-align: center;
+    text-decoration: dotted;
+    text-transform: uppercase;
+    text-shadow: 3px 3px 1px rgb(186, 186, 70);
+}
